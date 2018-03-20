@@ -1,0 +1,13 @@
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\bin\Debug\Proyecto Asesor de Sorpresas.exe.config
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\bin\Debug\Proyecto Asesor de Sorpresas.exe
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\bin\Debug\Proyecto Asesor de Sorpresas.pdb
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto Asesor de Sorpresas.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Form1.resources
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto Asesor de Sorpresas.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto Asesor de Sorpresas.exe
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto Asesor de Sorpresas.pdb
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Form2.resources
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Form3.resources
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Form4.resources
+c:\users\omar\documents\visual studio 2015\Projects\Proyecto Asesor de Sorpresas\Proyecto Asesor de Sorpresas\obj\Debug\Proyecto_Asesor_de_Sorpresas.Form5.resources
